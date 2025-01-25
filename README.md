@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wojciech</h1>
 <h3 align="center">AGH UST Computer Science in Engineering Student</h3>
 
-- 🔭 I’m currently working on [Finite Elements Method Application](https://github.com/WJurgiel/FEM-Project)
+- 🔭 I’m currently working on [Visual representation of sorting algorithms](https://github.com/WJurgiel/Sorting-Visualization)
 
 - 🌱 I’m currently learning **React, NestJS, Typescript, Java**
 
